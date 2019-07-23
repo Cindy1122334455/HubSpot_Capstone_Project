@@ -1,6 +1,6 @@
 # HubSpot Capstone Project
 
-HubSpot would like to increase their presence in emerging markets, particularly Brazil and India. Research indicates several areas where HubSpot can optimize cost, spending, marketing, and resource allocation in order to increase their LTV (Customer Lifetime Value) to CAC (Customer Acquisition Cost) ratio (also referred to as “health index”) to above four. 
+HubSpot would like to increase their presence in emerging markets, particularly Brazil and India. Research indicates several areas where HubSpot can optimize cost, spending, marketing, and resource allocation in order to increase their LTV (Customer Lifetime Value) to CAC (Customer Acquisition Cost) ratio (“health index”) to above four. 
 
 Purpose:
 
