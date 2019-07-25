@@ -16,3 +16,5 @@ Methodology:
 
 Three main steps: Data Preparation, Data Analysis, and Strategy Formulation. Initially, we cleaned the dataset and recategorized the data by company size and industry. We utilized Tableau and R to analyze correlations, statistical significance, revenue seasonality, and segmentation based on company size and industry. This process resulted us in 
 finalizing visualizations that depicted key trends for sales and marketing strategies for each country. 
+
+Strategy & Recommendation:
